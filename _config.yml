@@ -1,2 +1,4 @@
   name: Kate Bridges
   markdown: kramdown
+
+theme: jekyll-theme-minimal
