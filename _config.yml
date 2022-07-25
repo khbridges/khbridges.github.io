@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Kate
 middle_name: 
 last_name: Bridges
-email: li.henry.hfl@gmail.com
+email: kate.bridges@yale.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple site about me.
 footer_text: >
@@ -54,9 +54,8 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: lihenryhfl # your GitHub user name
-gitlab_username: # your GitLab user name
-twitter_username: lowhankmatrix # your Twitter handle
+github_username: khbridges # your GitHub user name
+twitter_username: # your Twitter handle
 linkedin_username: # your LinkedIn user name
 scholar_userid: _DUDkaQAAAAJ # your Google Scholar ID
 orcid_id: # your ORCID ID
@@ -207,8 +206,8 @@ jekyll-archives:
 
 scholar:
 
-  last_name: Li
-  first_name: [Henry, F.]
+  last_name: Bridges
+  first_name: [Kate, H.]
 
   style: apa
   locale: en
