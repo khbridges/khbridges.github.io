@@ -11,16 +11,11 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD in Applied Mathematics
+    - title: PhD in Biomedical Engineering
       institution: Yale University
-      year: 2020-
+      year: 2018-
       description:
         - Advised by Ronald Coifman and Yuval Kluger.
-    - title: PhD in Computer Science
-      institution: UC San Diego
-      year: 2018-2020
-      description:
-        - Advised by Alex Cloninger. <STRONG> Transferred to Yale University. </STRONG>
     - title: B.S. in Computer Science and Mathematics
       institution: Yale University
       year: 2013-2017
