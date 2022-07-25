@@ -15,45 +15,47 @@
       institution: Yale University
       year: 2018-
       description:
-        - Advised by Ronald Coifman and Yuval Kluger.
-    - title: B.S. in Biomedical Engineering, B.S. in Mathematics
+        - Expected graduation&#58; 2023
+        - Advised by Kathryn Miller-Jensen
+        - Thesis&#58; “Improved cell classification and inference of cellular communication from single-cell immunological data”
+          Certificate from the Integrated Graduate Program in Physics, Engineering, and Biology
+
+    - title: MPhil in Biomedical Engineering
+      year: 2018-2021
+      institution: Yale University
+
+    - title: MS in Biomedical Engineering
+      year: 2018-2019
+      institution: Yale University
+
+    - title: B.S. in Biomedical Engineering, Mathematics (Double Major)
       institution: University of Virginia
       year: 2014-2018
-      #description:
-        #- Description 1.
+      description:
+        - Graduated with highest distinction (GPA 3.855)
+        - Minor in Engineering Business
 
-- title: Experience
+- title: Research Experience
   type: time_table
   contents:
-    - title: CCM Summer Research Intern
-      institution: Flatiron Institute
-      year: 2020
+    - title: Doctor Research
+      institution: Yale University (Under Kathryn Miller-Jensen, Ph.D.)
+      year: 2018 -
       description:
         - Explored deep image prior-based techniques for enhancing phase retrieval in low-photon settings at the Center for Computational Mathematics (CCM) at Flatiron Institute
+        - Led all single-cell RNA-seq data analysis for $2.8M National Cancer Institute grant exploring mechanisms of combinatorial immunotherapies in mouse models of melanoma.
 
-    - title: Summer Research Fellow
-      institution: Yale University
-      year: 2019
+    - title: Undergraduate Capstone Research
+      institution: Barron Associates (Under Alec Bateman, Ph.D., and Michael DeVore, Ph.D.)
+      year: 2017-2018
       description:
-        - Studied under Alexander Cloninger, Yuval Kluger, and Ronald Coifman, investigating manifold-based machine learning techniques for manifold-valued data generation
+        - Integrated an established deterministic pharmacokinetic model of propofol transport into a novel Simulink-based stochastic framework to aid predictions of optimal anesthetic dose. 
 
-    - title: Research Fellow
-      institution: Yale University
-      year: 2017
+    - title: Undergraduate Research
+      institution: University of Virginia (Under Jeffrey Saucerman, Ph.D. and Bryan Chun, M.D., Ph.D.)
+      year: 2016-2017
       description:
-        - Worked under Yuval Kluger at the Kluger Lab on mathematical tools for data visualization and machine learning
-
-    - title: Software Engineering Intern
-      institution: Amazon Lab126
-      year: 2016
-      description:
-        - Modified machine learning module (an n-gram Markov model) in FireOS to reduce memory usage by ~2x with no significant reduction in prediction quality
-
-    - title: Moncrief Summer Research Fellow
-      institution: UT Austin
-      year: 2015
-      description:
-        - Designed and implemented an image segmentation method (combination of normalized cuts, convolutions, and modified watershed segmentation) to automatically label myofibrils in cardiovascular TEM imagery at human or above human accuracy
+        - Integrated novel gene expression data into a logic-based ODE model of the cardiomyocyte hypertrophy signaling network to investigate the role of genetic variability of network species in hypertrophic response and implicate specific signaling network constituents as therapeutic targets.
 
 #- title: Reviewing Responsibilities
 #  type: time_table
